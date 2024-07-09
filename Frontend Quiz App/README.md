@@ -48,23 +48,23 @@ Users should be able to:
 
 ### Screenshot
 
-![](/public/Screenshots/dark_completedpage.png)
-![](/public/Screenshots/dark_completedpage_mobile.png)
-![](/public/Screenshots/dark_homepage.png)
-![](/public/Screenshots/dark_homepage_mobile.png)
-![](/public/Screenshots/dark_questionpage.png)
-![](/public/Screenshots/dark_questionpage_mobile.png)
-![](/public/Screenshots/light_completedpage.png)
-![](/public/Screenshots/light_completedpage_mobile.png)
-![](/public/Screenshots/light_homepage.png)
-![](/public/Screenshots/light_homepage_mobile.png)
-![](/public/Screenshots/light_questionpage.png)
-![](/public/Screenshots/light_questionpage_mobile.png)
+![](/public/dark_completedpage.png)
+![](/public/dark_completedpage_mobile.png)
+![](/public/dark_homepage.png)
+![](/public/dark_homepage_mobile.png)
+![](/public/dark_questionpage.png)
+![](/public/dark_questionpage_mobile.png)
+![](/public/light_completedpage.png)
+![](/public/light_completedpage_mobile.png)
+![](/public/light_homepage.png)
+![](/public/light_homepage_mobile.png)
+![](/public/light_questionpage.png)
+![](/public/light_questionpage_mobile.png)
 
 ### Links
 
 - Github URL: [https://github.com/Pa-ppy/Frontend-Quiz-App]
-- Live Site URL: []
+- Live Site URL: [https://f-endquizapp.netlify.app/]
 
 ## My process
 

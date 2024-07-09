@@ -44,7 +44,6 @@ export const GlobalStyle = createGlobalStyle<{
   }
 
   img {
-    background-color: #f4f6fa;
     border-radius: 7px;
   }
 
